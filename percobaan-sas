@@ -1,6 +1,10 @@
 sasparking
 -html
 -css
+  *bootsrap
+  *jquery
 -javascript
+  *reactnative
+  *expressjs
 -nodejs
 -database
